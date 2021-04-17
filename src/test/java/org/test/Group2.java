@@ -15,5 +15,10 @@ public class Group2 {
 	public void tc23() {
 		System.out.println("tc23");
 	}
+	
+	private void sample() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
