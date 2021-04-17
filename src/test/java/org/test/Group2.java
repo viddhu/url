@@ -3,6 +3,16 @@ package org.test;
 import org.testng.annotations.Test;
 
 public class Group2 {
+	
+	
+	private void sample() {
+		// TODO Auto-generated method stub
+
+	}
+	private void meth() {
+		// TODO Auto-generated method stub
+
+	}
 	@Test(groups="rerun")
 	public void tc21() {
 		System.out.println("tc21");
