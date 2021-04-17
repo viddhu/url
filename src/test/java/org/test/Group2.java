@@ -20,5 +20,9 @@ public class Group2 {
 		// TODO Auto-generated method stub
 
 	}
+	private void meth() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
